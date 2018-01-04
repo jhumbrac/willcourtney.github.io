@@ -1,6 +1,5 @@
 body {
-	color:blue;
-}
-h1, p {
-	background-color: yellow;
+	color: red;
+	background-color: green;
+	font-family: arial;
 }
